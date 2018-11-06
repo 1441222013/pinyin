@@ -1,0 +1,64 @@
+#KBBK
+{
+    background-color: #D0D2D8;
+}
+#BASICBTN
+{
+    background-color:#FFFFFF;
+    font-size:25px;
+    color:black;
+    border-radius: 8%;
+}
+#TOOLBTN
+{
+    background-color:#A7AFBC;
+    color:black;
+    font-size:25px;
+    border-radius: 10%;
+}
+#CNBTN
+{
+    background-color: #D0D2D8;
+    font-size: 25px;
+}
+
+#PYEDIT:disabled
+{
+    background-color: #D0D2D8;
+    font-size: 30px;
+    color:black;
+    border:none;
+}
+#PYEDIT
+{
+    background-color: #D0D2D8;
+    font-size: 30px;
+    color:black;
+    border:none;
+}
+#DELBTN
+{
+    border:1px solid #A7AFBC;
+    border-radius: 10%;
+    background:#A7AFBC url(pic/del.png) no-repeat center center;
+}
+#CAPBTN
+{
+    border:1px solid #A7AFBC;
+    border-radius: 10%;
+    background:#A7AFBC url(pic/big.png) no-repeat center center;
+}
+
+#HIDEBTN
+{
+    border:1px solid #A7AFBC;
+    border-radius: 10%;
+    background:#A7AFBC url(pic/hide.png) no-repeat center center;
+}
+
+#ENTERBTN
+{
+    border:1px solid #A7AFBC;
+    border-radius: 10%;
+    background:#A7AFBC url(pic/enter.png) no-repeat center center;
+}
